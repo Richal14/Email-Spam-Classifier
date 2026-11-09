@@ -131,7 +131,8 @@ The model is evaluated using:
 
 ## How it looks?
 <img width="1907" height="951" alt="Screenshot 2026-11-09 192334" src="https://github.com/user-attachments/assets/a7c43220-426f-486f-854c-6f2e87919bf4" />
-http://localhost:8503
+
+Local URL: http://localhost:8503(Search to check)
 
 ## 👩‍💻 Author
 
